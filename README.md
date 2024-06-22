@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Shinde</h1>
 <h3 align="center">I am Currently Student Of Computer Science</h3>
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/RKP3d6ByvUWt9bh77">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshshinde45&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshshinde45" /> </p>
 
