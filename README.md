@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [RUSHIKESH SHINDE]
+# Hi there! 👋 I'm [Rushikesh Shinde]
 
 [Banner]((https://github.com/rushikeshshinde45) =Welcome+to+My+GitHub+Profile)
 
