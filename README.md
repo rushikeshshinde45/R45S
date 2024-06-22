@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rushikesh13.info@gmail.com**
 
--  Fun fact **I am Quick Learner**
+**I am Quick Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
