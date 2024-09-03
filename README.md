@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshshinde45&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshshinde45" /> </p>
 
-- 🌱 I’m currently learning **Backend and FrontEnd**
+- 🌱 I’m currently learning **Front-end Back-End**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushikeshshinde45](https://github.com/rushikeshshinde45)
 
