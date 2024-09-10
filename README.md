@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rushikeshs7342" target="blank"><img src="https://img.shields.io/twitter/follow/rushikeshs7342?logo=twitter&style=for-the-badge" alt="rushikeshs7342" /></a> </p>
 
-- 🌱 I’m currently learning **Back-end & Front-end**
+- I’m currently learning **Back-end & Front-end**
 
-- ⚡ Fun fact **I am quick learner**
+-  **I am quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
